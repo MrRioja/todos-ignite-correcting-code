@@ -39,7 +39,7 @@ A API é bem simples e possui as rotas abaixo:
 <details>
   <summary>POST <code>/repositories</code></summary>
   <br>
-  A rota recebe <code></code>`title`, <code></code>`url` e <code></code>`techs` pelo corpo da requisição e retorna um objeto com as informações do repositório criado e um status <code></code>`201`.  
+  A rota recebe <code>title</code>, <code>url</code> e <code>techs</code> pelo corpo da requisição e retorna um objeto com as informações do repositório criado e um status <code>201</code>.  
 </details>
 
 <details>
